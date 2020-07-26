@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my last uni project it's about DCGAN
+- 🔭 I’m currently working on creating more mini-projjecs
 - 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on computer vision projects, creating arts using ML (picture/audio/video)
 - 🤔 I’m looking for help with math in GAN
