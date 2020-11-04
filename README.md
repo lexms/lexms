@@ -6,6 +6,4 @@
 - 🤔 I’m looking for help with math in GAN
 - 💬 Ask me about ML, GAN, Computer Vision
 - 📫 How to reach me: alexandermanuel.s@gmail.com / [lexmanuel.com](https://lexmanuel.com/) 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- ⚡ I'm a art breeder
