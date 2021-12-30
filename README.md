@@ -1,4 +1,4 @@
 ### Hi there 👋
 - 🌱 Software Engineer at Tomorrows Education
 
-- 🔭 Working on front end, data engineering, and automation
+- 🔭 Working on fullstack, data engineering, and automation
