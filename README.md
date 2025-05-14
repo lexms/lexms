@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Alexander Manuel Sumolang
+# 👋 Hi there, I'm Lex
 
 🚀 Full-Stack Engineer | 🛠️ Builder of efficient systems | 🌍 Based in Berlin
 
