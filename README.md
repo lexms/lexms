@@ -19,7 +19,9 @@ I focus on:
 
 ```ts
 TypeScript | Next.js | React | Node.js | GraphQL | MongoDB | PostgreSQL | AWS | Redis | Docker | TailwindCSS
+```
 
 ---
-[![LeetCode Stats](https://leetcard.jacoblin.cool/lexms?theme=unicorn&font=Ubuntu&ext=activity)](https://leetcode.com/u/lexms/)
+### 🧠 On my way to perfecting my LeetCode
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/lexms?theme=unicorn&font=Ubuntu&ext=activity)](https://leetcode.com/u/lexms/)
